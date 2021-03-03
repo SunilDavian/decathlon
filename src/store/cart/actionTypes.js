@@ -1,0 +1,10 @@
+const actionTypes = {
+  ADD_TO_CART: 'ADD_TO_CART',
+  INCREASE_ITEM: 'INCREASE_ITEM',
+  DECREASE_ITEM: 'DECREASE_ITEM',
+  REMOVE_ITEM: 'REMOVE_ITEM',
+  CLEAR_CART: 'CLEAR_CART',
+  CHECKOUT: 'CHECKOUT'
+}
+
+export default actionTypes;
